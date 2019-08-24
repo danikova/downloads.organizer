@@ -1,0 +1,4 @@
+test_directory/*
+logs/*
+.idea/*
+*.cfg
